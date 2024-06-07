@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiftnter
-- 👀 I’m interested in Java, DSA, DevOps, html, css, javascript
+- 👀 I’m interested in Pythob, DSA, DevOps, html, css, javascript
 - 🌱 I’m currently learning 
 
 <!---
